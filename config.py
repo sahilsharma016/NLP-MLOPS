@@ -1,0 +1,10 @@
+ng_low = 1
+ng_high = 3
+test_size = 0.2
+input_path = 'Input'
+output_path = 'Output'
+stem ="p"
+text_col = 'review'
+label_col = 'Sentiment'
+rs=42
+min_df = 5
